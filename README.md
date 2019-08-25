@@ -6,6 +6,7 @@ Add your DATABASE URI in app.py and your mail params in send_mail.py
 
 # Install dependencies
 pipenv shell
+<br>
 pipenv install
 
 # Serve on localhost:5000
