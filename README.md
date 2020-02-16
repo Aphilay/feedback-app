@@ -1,5 +1,5 @@
 # Python-feedback-app
-Python Flask Feedback app that sends data to Postgres database and emails user.
+Python Flask  app that allows the user to submit feedback with an email confirmation.
 
 # Quickstart 
 Add your DATABASE URI in app.py and your mail params in send_mail.py
